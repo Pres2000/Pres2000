@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pres2000
-- 👀 I’m interested in Web Development!
-- 🌱 I’m currently learning JavaScript :D
+- 👀 I’m Studying to be a FullStack Developer
+- 🌱 I’m currently learning Ruby!
 - 💞️ I’m looking to collaborate on Front and Backend Projects!
 - 📫 How to reach me => pjhogaboam@gmail.com
 
