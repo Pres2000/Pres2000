@@ -17,7 +17,7 @@
 
 - 📫 How to reach me **pjhogaboam@gmail.com**
 
-- ⚡ Fun fact **Ik vind frietsaus vies**
+- ⚡ Fun fact **Ik vind frietsaus niet zo lekker**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
