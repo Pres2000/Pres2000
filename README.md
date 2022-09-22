@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://pres2000.github.io/](https://pres2000.github.io/)
+- 👨‍💻 All of my projects are available at [https://troopl.com/pres2000](https://troopl.com/pres2000)
 
 - 📝 I regularly write articles on [https://preston-hogaboam.medium.com/](https://preston-hogaboam.medium.com/)
 
