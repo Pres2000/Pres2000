@@ -11,7 +11,7 @@
 
 - 👨‍💻 All of my projects are available at [https://troopl.com/pres2000](https://troopl.com/pres2000)
 
-- 📝 I regularly write articles on [https://preston-hogaboam.medium.com/](https://preston-hogaboam.medium.com/)
+- 📝 I occasionaly write articles on [https://preston-hogaboam.medium.com/](https://preston-hogaboam.medium.com/)
 
 - 💬 Ask me about **Travel and Food**
 
