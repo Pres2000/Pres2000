@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preston</h1>
-<h3 align="center">A passionate frontend developer currently living in the Netherlands</h3>
+<h3 align="center">A passionate frontend developer living in the Netherlands</h3>
 
 - 🔭 I’m currently working on [Home Mixed](http://www.homemixed.club/)
 
