@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm Preston</h1>
 <h3 align="center">A passionate software developer living in the Netherlands</h3>
 
-- 🔭 I’m currently learning to work with Salesforce
+- 🔭 I’m currently working at Racktime as a Junior Salesforce Developer
 
-- 🌱 I’m currently learning **JavaScript, C#, and APEX**
+- 🌱 I’m learning **JavaScript, HTML + CSS, and APEX**
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
