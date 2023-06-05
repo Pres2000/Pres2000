@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Preston</h1>
-<h3 align="center">A passionate software developer living in the Netherlands</h3>
+<h3 align="center">A Junior Software Developer living in the Netherlands</h3>
 
 - 🔭 I’m currently working at Racktime as a Junior Salesforce Developer
 
