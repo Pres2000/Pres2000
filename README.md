@@ -3,17 +3,15 @@
 
 - 🔭 I’m currently working at Racktime as a Junior Salesforce Developer
 
-- 🌱 I’m learning **JavaScript, HTML + CSS, and APEX**
+- 🌱 I’m learning **JavaScript, Lightning Framework, SOQL, and APEX**
 
 - 👯 I’m looking to collaborate on **Front End Projects**
 
-- 🤝 I’m looking for help with **JavaScript**
+- 🤝 I’m looking for help with **Apex and JavaScript**
 
-- 👨‍💻 All of my projects are available at [https://troopl.com/pres2000](https://troopl.com/pres2000)
+- 📝 I occasionally write articles on [https://preston-hogaboam.medium.com/](https://preston-hogaboam.medium.com/)
 
-- 📝 I occasionaly write articles on [https://preston-hogaboam.medium.com/](https://preston-hogaboam.medium.com/)
-
-- 💬 Ask me about **Travel and Food**
+- 💬 Ask me about **Science and Food**
 
 - 📫 How to reach me **pjhogaboam@gmail.com**
 
