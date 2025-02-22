@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Preston</h1>
-<h3 align="center">A Junior Software Developer living in the Netherlands</h3>
+<h3 align="center">A Salesforce Developer living in the Netherlands</h3>
 
-- 🔭 I’m currently working at Racktime as a Junior Salesforce Developer
+- 🔭 I’m currently working at Sarawak as a Medior Salesforce Developer
 
 - 🌱 I’m learning **JavaScript, Lightning Framework, SOQL, and APEX**
 
@@ -11,7 +11,7 @@
 
 - 📝 I occasionally write articles on [https://preston-hogaboam.medium.com/](https://preston-hogaboam.medium.com/)
 
-- 💬 Ask me about **Science and Food**
+- 💬 Ask me about **Outdoors, Travel and Food**
 
 - 📫 How to reach me **pjhogaboam@gmail.com**
 
